@@ -1,0 +1,5 @@
+openai
+requests
+azure-cognitiveservices-search-websearch
+azure-ai-textanalytics
+pyyaml

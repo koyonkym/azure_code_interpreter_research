@@ -1,0 +1,6 @@
+__blobstorage__
+__queuestorage__
+.venv
+__azurite_db_*.json
+credentials.yaml
+old_*.ipynb
